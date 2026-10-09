@@ -1,0 +1,24 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# 本机开发脚本与构建日志（含本机绝对路径，不宜公开）
+/.setup/
+
+# IDE 配置整目录
+/.idea/
+
+# 构建产物兜底（模块级 app/.gitignore 已含 /build）
+build/

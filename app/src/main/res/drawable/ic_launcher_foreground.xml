@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 记账本：白色圆角矩形，evenOdd 挖出装订孔与记录线（透出红色背景） -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M42,27 L66,27 Q75,27 75,36 L75,72 Q75,81 66,81 L42,81 Q33,81 33,72 L33,36 Q33,27 42,27 Z M38,39 a4,4 0 1 0 8,0 a4,4 0 1 0 -8,0 Z M50,39 a4,4 0 1 0 8,0 a4,4 0 1 0 -8,0 Z M62,39 a4,4 0 1 0 8,0 a4,4 0 1 0 -8,0 Z M42,51 L66,51 L66,55 L42,55 Z M42,62 L66,62 L66,66 L42,66 Z M42,73 L66,73 L66,77 L42,77 Z" />
+</vector>
